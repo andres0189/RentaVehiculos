@@ -1,0 +1,9 @@
+FGT456,R4,100000,true
+AZB321,Ferrari,20000,true
+MUF407,Mazda,50000,true
+XLS777,lamborghini,1200000,true
+DOG682,BMW,600000,true
+ 
+
+
+
